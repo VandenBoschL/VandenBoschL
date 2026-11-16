@@ -2,6 +2,11 @@
 
 **Research Scientist III | Computational Biology & Genomics**  
 *Seattle Children’s Research Institute (SCRI) — Ben Towne Center for Childhood Cancer and Blood Disorders Research*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=flat&logo=nextflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 I am a computational biologist and molecular/cellular biologist (PhD, University of Washington) focused on regulatory genomics, single-cell epigenomics, and machine learning approaches to decode non-coding genetic variation and human disease. At SCRI, I lead bioinformatics workflows supporting research on inborn errors of immunity and chronic inflammation, partnering across wet-lab and clinical teams and mentoring junior researchers in reproducible genomics analysis.
 
@@ -11,11 +16,7 @@ I am a computational biologist and molecular/cellular biologist (PhD, University
 * **Regulatory & Non-Coding Genomics:** Predicting the functional impact of non-coding variants within *cis*-regulatory elements (CREs) and enhancers using machine learning (gapped *k*-mer SVMs, deep neural networks) and *in silico* saturation mutagenesis.
 
 ### 🛠️ Technical Stack & Domain Expertise
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=flat&logo=nextflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Languages & Workflow:** Python, R, Bash, Nextflow, Git
 * **Data Science & ML:** Statistical Modeling, Machine Learning (gapped *k*-mer SVMs, Deep Neural Networks), *In Silico* Mutagenesis
 * **Genomics & Multi-Omics:** Bulk & Single-Cell RNA-seq, snATAC-seq, DNase-seq, ChIP-seq, Variant Prioritization
 * **Biology & Wet Lab Background:** Molecular Biology, Immunology, Neuroscience, Mammalian Cell Culture
