@@ -18,4 +18,4 @@ I am a computational biologist and molecular/cellular biologist (PhD, University
 * **Machine Learning Prediction of Non-Coding Variant Impact in Human Retinal *cis*-Regulatory Elements**  
   *Translational Vision Science & Technology* (2022) — Applied ML models and *in silico* saturation mutagenesis across ~47k human retinal CREs to prioritize regulatory variants in inherited visual disorders.
 * **Developmental changes in the accessible chromatin, transcriptome and Ascl1-binding correlate with the loss in Müller Glial regenerative potential**
-  *Scientific Reports* (2020) - Integrated ATAC-seq, RNA-seq, and ChIP-seq across retinal progenitors and maturing Müller glia to show that loss of 
+  *Scientific Reports* (2020) - Integrated ATAC-seq, RNA-seq, and ChIP-seq across retinal progenitors and maturing Müller glia to show that loss of chromatin accessibility and bHLH motif availability at neurogenic loci restricts *Ascl1*-mediated neural reprogramming.
